@@ -21,7 +21,6 @@ for i in numlist:
     walk = walk + 1
 
 sumlist = sum(numlist)
-print(sumlist)
 
 # list compehensive makes the walk shorter:
 # numlist = [int(i) for i in numlist]
