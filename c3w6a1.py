@@ -1,4 +1,4 @@
-# Week 6 assignment 1
+ # Week 6 assignment 1
 # Extract data from json
 
 import urllib.request, urllib.parse, urllib.error
